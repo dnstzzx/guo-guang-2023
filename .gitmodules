@@ -1,0 +1,6 @@
+[submodule "car"]
+	path = car
+	url = git@github.com:dnstzzx/guo-guang-2023-car.git
+[submodule "master"]
+	path = master
+	url = git@github.com:dnstzzx/guo-guang-2023-master.git
